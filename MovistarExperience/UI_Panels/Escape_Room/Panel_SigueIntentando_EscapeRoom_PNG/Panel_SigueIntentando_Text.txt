@@ -1,0 +1,19 @@
+Text: ¡Has obtenido X puntos!
+
+Font: on Air - Bold
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: Aún necesitas aprender más
+de los secretos de Stranger Things.
+¡Sigue entrenando!
+
+Font: On Air - Regular
+
+Size: 30 pt
+
+Text-align: center

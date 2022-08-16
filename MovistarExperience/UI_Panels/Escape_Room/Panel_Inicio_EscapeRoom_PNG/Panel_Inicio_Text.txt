@@ -1,0 +1,19 @@
+Text: ¡Bienvenido al Escape Room de Stranger Things!
+
+Font: on Air - Bold
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: Responde correctamente a todas las preguntas,
+busca y selecciona el objeto que contiene la solución
+y demuestra cuánto sabes de Stranger Things.﻿
+
+Font: On Air - Regular
+
+Size: 30 pt
+
+Text-align: center

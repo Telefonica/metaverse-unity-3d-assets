@@ -1,0 +1,29 @@
+Text: ¡Has obtenido 100 puntos!
+
+Font: on Air - Bold
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: ¡Enhorabuena!
+Lo sabes todo de Stranger Things.
+¡Aquí tienes tu premio!
+
+Font: On Air - Regular
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: Poster descargable de Stranger Things
+
+Font: On Air - Regular
+
+Size: 24 pt
+
+Text-align: center

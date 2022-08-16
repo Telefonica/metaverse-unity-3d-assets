@@ -1,0 +1,30 @@
+Text: Pregunta X de 5
+
+Font: on Air - Bold
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: ¿Cuál es el mejor sitio para comer
+un helado en Hawkins? 
+
+Font: On Air - Regular
+
+Size: 30 pt
+
+Text-align: left
+
+------
+
+Text: El mejor sitio para comer
+un helado en Hawkins
+es la heladería Scoops Ahoy
+
+Font: On Air - Regular
+
+Size: 30 pt
+
+Text-align: left

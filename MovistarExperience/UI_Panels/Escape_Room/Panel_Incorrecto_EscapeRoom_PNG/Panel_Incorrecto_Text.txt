@@ -1,0 +1,27 @@
+Text: Pregunta X de 5
+
+Font: on Air - Bold
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: ¿Cuál es el mejor sitio para comer un helado en Hawkins?
+
+Font: On Air - Regular
+
+Size: 30 pt
+
+Text-align: center
+
+------
+
+Text: La respuesta no es correcta
+
+Font: On Air - Bold
+
+Size: 30 pt
+
+Text-align: center
