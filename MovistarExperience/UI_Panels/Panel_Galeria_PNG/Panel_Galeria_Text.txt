@@ -1,0 +1,17 @@
+Text: Sacar selfie
+
+Font: on Air - Regular
+
+Size: 18 pt
+
+Text-align: center
+
+------
+
+Text: IMG XX
+
+Font: On Air - Regular
+
+Size: 18 pt
+
+Text-align: center

@@ -1,0 +1,27 @@
+Text: Compartir
+
+Font: on Air - Regular
+
+Size: 23,98 pt
+
+Text-align: center
+
+------
+
+Text: Borrar
+
+Font: on Air - Regular
+
+Size: 23,98 pt
+
+Text-align: center
+
+------
+
+Text: IMG XX
+
+Font: On Air - Regular
+
+Size: 64,1 pt
+
+Text-align: center
